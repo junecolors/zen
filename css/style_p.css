@@ -1,0 +1,49 @@
+body {
+    background-color: #f2fcfa;
+        /* For browsers that do not support gradients */
+        background-image: linear-gradient(#f2fcfa, #eeffef4d);
+        height: 3000px;
+    font-size: 2.2em;
+    line-height: 1.3em;
+    font-weight: normal;
+    font-style: normal;
+}
+
+#presentation-container {
+    font-family: 'RursusCompactMonoMedium';
+    padding-top: 4em;
+    margin: auto;
+    text-align: left;
+    align-content: center;
+    width: 50%;
+
+}
+
+h1 {
+    display: block;
+    font-size: 1.8em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: 100;
+}
+h2 {
+    display: block;
+    font-size: 1.6em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: 100;
+}
+
+h3 {
+    display: block;
+    font-size: 2.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: 100;
+}
+
+ p {
+     font-size: 1em;
+ }
